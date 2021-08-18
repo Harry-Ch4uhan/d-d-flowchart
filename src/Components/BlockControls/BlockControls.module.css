@@ -1,0 +1,41 @@
+.ControlsWrapper {
+  width: 20%;
+  height: 100vh;
+  background: white;
+  box-shadow: 0 0 12px rgb(0, 0, 0, 0.6);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+}
+
+.BlockInfo {
+  margin-bottom: 2rem;
+  display: flex;
+  align-items: center;
+}
+
+.ControlsWrapper p {
+  color: grey;
+}
+
+.ControlsWrapper img {
+  width: 80%;
+  height: auto;
+}
+
+.color {
+  height: 1.6rem;
+  width: 1.6rem;
+  border-radius: 50%;
+}
+
+.sheet {
+  height: 2rem;
+  width: 3rem;
+  background: white;
+  /* border: ; */
+  color: black;
+  border-radius: 5px;
+}

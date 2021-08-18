@@ -1,0 +1,22 @@
+.BubbleInputArea {
+  height: 3rem;
+  background: #e6e6e6;
+  min-height: 3rem;
+  width: 90%;
+  border: 3px solid #e8e7e9;
+  text-align: left;
+  padding: 2px 1rem;
+  font-family: "Varela Round", sans-serif;
+  overflow: hidden;
+  resize: none;
+  position: relative;
+  border-bottom: 1px solid blue;
+  color: rgb(51, 51, 51);
+}
+
+.Connector {
+  height: 2rem;
+  margin: 1rem 0;
+  width: 2px;
+  background: blue;
+}
